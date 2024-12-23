@@ -1,0 +1,72 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yashkdm01/pythonITVedant.git
+git push -u origin main
+
+# Addition
+# numOne = int(input("enter num"))
+# numTwo = int(input("enter num"))
+# sum = numOne + numTwo
+# print("addition of two numbers", sum)
+
+# numOne = 20
+# numTwo = 30
+# add = numOne + numTwo
+# print("Addition of two numbers", add)
+
+# Radius
+# radius = int(input("enter radius"))
+# areaOfCircle = 3.14 * radius * radius
+# print("Area of Circle", areaOfCircle)
+
+# r = 14
+# radius = 3.14 * r * r
+# print("Radius", radius)
+
+# Multiplication
+# numOne = 20
+# numTwo = 30
+# mult = numOne * numTwo
+# print("Addition of two numbers", mult)
+
+# numOne = int(input("enter num"))
+# numTwo = int(input("enter num"))
+# mult = numOne * numTwo
+# print("multiplication of two numbers", mult)
+
+# Division
+# numOne =8
+# numTwo =2
+# div = numOne % numTwo
+# print("Divisin of two numbers", div)
+
+# numOne = int(input("enter num"))
+# numTwo = int(input("enter num"))
+# div = numOne // numTwo
+# print("division of two numbers", div)
+
+# numOne = int(input("enter num"))
+# numTwo = int(input("enter num"))
+# div = numOne % numTwo
+# print("division of two numbers", div)
+
+# fahreinheit to celcius
+
+# fah = int(input("enter value : "))
+# cel = (fah - 32) * 5 // 9
+# print("value in celcius", cel)
+
+# Simple Interest
+# prin = int(input("enter value"))
+# noy = int(input("enter value"))
+# roi = int(input("enter value"))
+# SI = (prin * noy * roi) / 100
+# print("SI is", SI)
+
+# area of circle
+
+# radii = float(input('enter value'))
+# Area = 22/7 * radii * radii
+# print("arae of cicle", Area)
